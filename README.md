@@ -29,7 +29,7 @@ WebURL: https://tmate.io/t/rXbusP3qkYsfALDSLMQZVwG3d
 SSH: ssh rXbusP3qkYsfALDSLMQZVwG3d@sfo2.tmate.io
 ```
 
-Copy and paste the ssh line (e.g `ssh rXbusP3qkYsfALDSLMQZVwG3d@sfo2.tmate.io` in this case) into your terminal (Windows users: I strongly recommend you use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) if possible) and press <kbd>Enter</kbd>.
+Copy and paste the ssh line (e.g `ssh rXbusP3qkYsfALDSLMQZVwG3d@sfo2.tmate.io` in this case) into your terminal (Windows users: I strongly recommend you use [WSL](https://docs.microsoft.com/windows/wsl/install-win10?WT.mc_id=opensource-0000-chwarren) if possible) and press <kbd>Enter</kbd>.
 
 You'll see a welcome message. Press <kbd>q</kbd> to remove it, and you'll be in a Mac shell! The shell already has [brew](https://brew.sh/) installed, so you can easily add any software you need.
 
